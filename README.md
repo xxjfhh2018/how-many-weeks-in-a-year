@@ -22,7 +22,7 @@ To run this project locally, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/xxjfhh2018/your-repo-name.git
+   git clone https://github.com/xxjfhh2018/[https://github.com/xxjfhh2018/how-many-weeks-in-a-year.git]
    ```
 
 2. Navigate to the project directory:
